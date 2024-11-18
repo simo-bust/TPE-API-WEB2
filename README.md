@@ -2,6 +2,13 @@
 
 Bienvenido a la **API RESTful para la gestión de libros**, diseñada para facilitar la manipulación de datos de libros a través de endpoints que permiten realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre los libros.
 
+## Alumnos: Bustamante Simon y Valentino Sabbattini.
+
+### Ejemplos de endpoints: 
+```http 
+https://localhost/tpe2-parte3/api/libros/
+```
+
 ## Requerimientos Funcionales Mínimos
 
 ### 1. **La API Rest debe ser RESTful** 
